@@ -1,5 +1,5 @@
 <h1 align="center">🧠 Agentic AI Computer Automation</h1>
-<h3 align="center">By Masfa Tanveer</h3>
+<h3 align="center">By Ardit Agarwal</h3>
 
 <p align="center">
   <strong>A multimodal agent framework to automate your computer like a human.</strong><br/>
