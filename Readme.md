@@ -174,9 +174,9 @@ autopilot
 
 ---
 
-## 👨‍💻 Created by Masfa Tanveer
+## 👨‍💻 Created by Ardit Agarwal
 
-[GitHub](https://github.com/masfaatanveer) • [LinkedIn](https://linkedin.com/in/masfa-tanveer-500474235)
+[GitHub](https://github.com/agarwalardit)
 
 ---
 
